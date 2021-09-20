@@ -1,1 +1,1 @@
-# Prolog_Hanoi_Towers
+# Prolog-Hanoi-Towers
